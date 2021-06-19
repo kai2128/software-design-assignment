@@ -1,9 +1,13 @@
 - [Software Design Assignment](#software-design-assignment)
   - [Project Description](#project-description)
-  - [Dependencies](#dependencies)
-  - [Screenshots](#screenshots)
-  - [UML Modelling](#UML Modelling [refer to the folder 'UMLModelling'])
 
+  - [Dependencies](#dependencies)
+
+  - [Screenshots](#screenshots)
+
+  - [UML Modelling](#uml-modelling)
+
+    
 
 
 <hr>
@@ -59,7 +63,7 @@ Design pattern implemented: factory and singleton.
 
 
 
-### UML Modelling [refer to the folder ‘UMLModelling’]
+### UML Modelling
 
 * Sequence Diagram
 * Package Diagram
