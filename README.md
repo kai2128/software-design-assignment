@@ -4,6 +4,10 @@
   - [Dependencies](#dependencies)
 
   - [Screenshots](#screenshots)
+<<<<<<< HEAD
+=======
+  - [UML Modelling](#uml-modelling-[refer-to-the-folder-'umlmodelling'])
+>>>>>>> 84e28d1fa3bab7c971ec14f8579a661e01c3ffa8
 
   - [UML Modelling](#uml-modelling)
 
