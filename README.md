@@ -2,7 +2,7 @@
   - [Project Description](#project-description)
   - [Dependencies](#dependencies)
   - [Screenshots](#screenshots)
-  - [UML Modelling](#UML Modelling [refer to the folder 'UMLModelling'])
+  - [UML Modelling](#uml-modelling-[refer-to-the-folder-'umlmodelling'])
 
 
 
