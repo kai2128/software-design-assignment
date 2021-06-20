@@ -1,8 +1,13 @@
 - [Software Design Assignment](#software-design-assignment)
   - [Project Description](#project-description)
+
   - [Dependencies](#dependencies)
+
   - [Screenshots](#screenshots)
 
+  - [UML Modelling](#uml-modelling)
+
+    
 
 
 <hr>
@@ -42,14 +47,28 @@ Design pattern implemented: factory and singleton.
 
 ## Screenshots
 
-![main](README/main.png)
+### Console Application
 
-![LoginClientMenu](README/LoginClientMenu.png)
+![main](Screenshots/main.png)
 
-![Create Booking (if flight selected-1)](README/Create%20Booking%20(if%20flight%20selected-1).png)
+![LoginClientMenu](Screenshots/LoginClientMenu.png)
 
-![ViewPassengerList(Part 4)](README/ViewPassengerList(Part%204).png)
+![Create Booking (if flight selected-1)](Screenshots/Create%20Booking%20(if%20flight%20selected-1).png)
 
-![SearchFlight2](README/SearchFlight2.png)
+![ViewPassengerList(Part 4)](Screenshots/ViewPassengerList(Part%204).png)
 
-![View Bookings (if bookings exist)](README/View%20Bookings%20(if%20bookings%20exist).png)
+![SearchFlight2](Screenshots/SearchFlight2.png)
+
+![View Bookings (if bookings exist)](Screenshots/View%20Bookings%20(if%20bookings%20exist).png)
+
+
+
+### UML Modelling
+refer to folder 'UMLModelling'
+
+* Sequence Diagram
+* Package Diagram
+* Analysis Class Diagram
+* Design Class Diagram
+* Use Case Diagram
+
